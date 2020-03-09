@@ -112,7 +112,6 @@ body {
 .velikosti {
   margin: 0;
   padding: 0;
-  overflow: hidden;
 }
 
 .velikosti li {
@@ -140,7 +139,7 @@ a.tlacitko {
   border: 1px solid #f15f42;
   border-radius: 10px;
   padding: 10px 30px 10px 30px;
-  margin: 20px 0 0 0;
+  margin: 30px 0 0 0;
   background-color: #f15f42;
   color: white;
   box-shadow: 2px 4px 4px #f5f5f5;
